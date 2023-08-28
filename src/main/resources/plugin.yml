@@ -1,0 +1,4 @@
+name: TidSpigotExample
+version: 0.1
+api-version: 1.19
+main: me.devwckd.tid.spigot_example.TidSpigotExample
